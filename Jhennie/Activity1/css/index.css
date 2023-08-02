@@ -1,18 +1,18 @@
 body{
     text-align: center;
-    background-color: hwb(297 0% 92%);
-    color: rgb(207, 217, 211);
+    background-color: hwb(0 18% 79%);
+    color: rgb(187, 169, 169);
   }
   
   img{
     width: 60%;
-    height: 15%;
+    height: 14%;
     display: block;
     margin-left: auto;
     margin-right: auto;
   }
   h1{
-    color: rgb(189, 18, 101);
+    color: rgb(14, 3, 3);
 }
 
   .proglang{
@@ -39,7 +39,7 @@ body{
   
   .foot a{
     text-decoration: none;
-    color:#1d2eea;
+    color:rgb(187, 169, 169);
   }
   
   table {
@@ -49,11 +49,11 @@ body{
   }
   
   td, th {
-    border: 1px solid #dddddd;
+    border: 1px solid #373535;
     text-align: center;
-    padding: 8px;
+    padding: 9px;
   }
   
   tr:nth-child(odd) {
-    background-color: #e021ad;
+    background-color: hsl(326, 50%, 6%);
   }
