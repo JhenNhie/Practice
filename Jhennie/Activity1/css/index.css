@@ -13,7 +13,7 @@ body{
     margin-right: auto;
   }
   h1{
-    color:#560050;
+    color: #B73DAA;
 }
 
   .proglang{
@@ -56,5 +56,5 @@ body{
   }
   
   tr:nth-child(odd) {
-    background-color: #560050;
+    background-color: #B73DAA;
   }
