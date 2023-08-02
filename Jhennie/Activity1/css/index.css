@@ -1,7 +1,7 @@
 /*Jhennie Css*/
 body{
     text-align: center;
-    background-color: #370032;
+    background-color: #1b0319;
     color: white; 
   }
   
@@ -13,7 +13,7 @@ body{
     margin-right: auto;
   }
   h1{
-    color: #830178;
+    color:#560050;
 }
 
   .proglang{
@@ -24,7 +24,7 @@ body{
   .favs{
     margin-top: 2px;
     width: 50%;
-    float: right;
+    float: right;#220017
   }
   
   .favs ul{
@@ -40,7 +40,7 @@ body{
   
   .foot a{
     text-decoration: none;
-    color:rgb(187, 169, 169);
+    color: #560050;
   }
   
   table {
@@ -56,5 +56,5 @@ body{
   }
   
   tr:nth-child(odd) {
-    background-color: #830178;
+    background-color: #560050;
   }
