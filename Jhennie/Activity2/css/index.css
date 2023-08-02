@@ -1,91 +1,90 @@
-/*Jhennie Css*/
 body {
-  background-color: #463e3e;
-  color: rgba(5, 0, 0, 0.865);
+    background-color: #1b0319;
+    color: white;
 }
 h1 {
-  font-size: 25px;
-  margin-left: 20px;
-  margin-bottom: 30px;
+    font-size: 25px;
+    margin-left: 20px;
+    margin-bottom: 30px;
 }
 label {
-  margin-left: 30px;
+    margin-left: 30px;
 }
 ::placeholder {
-  color: rgb(12, 16, 2);
+    color: black;
 }
 
 p {
-  width: 200px;
-  text-align: center;
-  display: block;
-  margin: auto;
-  margin-top: 30px;
-  margin-bottom: 30px;
+    width: 200px;
+    text-align: center;
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 select,
 input[type="text"],
 input[type="number"],
 input[type="email"],
 input[type="password"] {
-  margin-left: 25px;
-  width: 230px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  height: 40px;
-  margin-top: 10px;
-  background-color: hsl(300, 3%, 30%);
-  background-color: rgba(213, 201, 201, 0.598);
-  border: none;
-  border-radius: 5px;
-  padding: 10px;
-  outline: none;
-  color: rgb(14, 1, 1);
+    margin-left: 25px;
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 40px;
+    margin-top: 10px;
+    background-color: #1b0319;
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    outline: none;
+    color: black;
 }
 
 input[type="checkbox"]{
-  margin-left: 40px;
+    margin-left: 40px;
 }
 
 input[type="submit"] {
-  display: block;
-  width: 120px;
-  height: 40px;
-  margin: auto;
-  margin-bottom: 20px;
-  margin-top: 20px;
-  border-radius: 10px;
-  border: none;
-  background-color: #0c662f;
-  color: rgb(157, 148, 148);
+    display: block;
+    width: 120px;
+    height: 40px;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border: none;
+    background-color: #560050;
+    color: white;
 }
 .message {
-  color: rgb(13, 12, 12);
-  outline: none;
-  background-color: hsl(0, 8%, 73%);
-  border: none;
-  border-radius: 10px;
-  margin-top: 10px;
-  width: 230px;
-  height: 150px;
-  display: block;
-  margin-right: auto;
-  margin-left: auto;
-  padding: 10px;
+    color: black;
+    outline: none;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    margin-top: 10px;
+    width: 250px;
+    height: 160px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 10px;
 }
 .forms {
-  width: 360px;
-  border: 1px none;
-  padding: 10px;
-  margin-top: 50px;
-  background-color: #756874;
-  border-radius: 15px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+    width: 320px;
+    border: 1px none;
+    padding: 10px;
+    margin-top: 50px;
+    background-color: #2e002b;
+    border-radius: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .box{
-  margin-left: 5px;
+    margin-left: 5px;
 }

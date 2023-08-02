@@ -1,8 +1,8 @@
 /*Jhennie Css*/
 body{
     text-align: center;
-    background-color: hwb(0 18% 79%);
-    color: rgb(187, 169, 169);
+    background-color: #370032;
+    color: white; 
   }
   
   img{
@@ -13,7 +13,7 @@ body{
     margin-right: auto;
   }
   h1{
-    color: rgb(14, 3, 3);
+    color: #830178;
 }
 
   .proglang{
@@ -56,5 +56,5 @@ body{
   }
   
   tr:nth-child(odd) {
-    background-color: hsl(326, 50%, 6%);
+    background-color: #830178;
   }
